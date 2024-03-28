@@ -1,0 +1,11 @@
+  .timeline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .year{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+  }

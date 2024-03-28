@@ -1,0 +1,31 @@
+#root{
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1.5rem;
+    background-color:  #0F1624;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+  
+  }
+  li{
+    display: inline;
+    padding: 40px;
+    color: white;
+  }
+  img{
+    margin-left: 20px;
+  }
+a{
+  cursor: pointer;
+}
+.fixed-top{
+  margin-left: 85%;
+  margin-top: 30px;
+}
+
+
+
+  
+  

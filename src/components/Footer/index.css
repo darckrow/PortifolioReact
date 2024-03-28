@@ -1,0 +1,12 @@
+.Footer{
+    display: flex;
+    margin: 50px 10px 10px 50px;
+    align-items: center;
+    justify-content: space-around;
+}
+.contact{
+    display: flex;   
+}
+.fone{
+    padding-right: 50px;
+}
